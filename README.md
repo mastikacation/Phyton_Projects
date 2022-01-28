@@ -12,7 +12,7 @@ taskagitmakas:<br />
 Its basically rock, paper, scissors and you are playing against the computer. You can see the score after any amount of rounds by inputing "q". <br /> 
 
 textadventure: <br />
-Its a text based game puts you in a situation which you are supposed to try different options and win. There are 4 paths at total, while one of them being the win state otehr 3 is the lose state.
+Its a text based game puts you in a situation which you are supposed to try different options and win. There are 4 paths at total, while one of them being the win state and other 3 being the lose state.
 
 
  
